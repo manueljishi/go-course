@@ -1,0 +1,10 @@
+go 1.21.3
+
+use (
+	./cards
+	./channels
+	./http
+	./interfaces
+	./map
+	./structs
+)
